@@ -32,7 +32,11 @@ The dataset contains information about:
 - Payments
 - Reviews
 - Product Categories
+  
+Due to GitHub file size limitations, the complete dataset is not included in this repository.
 
+Dataset Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
 ##  SQL Concepts Used
